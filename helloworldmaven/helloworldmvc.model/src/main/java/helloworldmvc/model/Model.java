@@ -6,7 +6,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 
 public class Model implements IModel{
-private static final String CHEMIN = "helloFile.txt"; //Emplacmeent du fichier
+private static final String CHEMIN = "helloFile.txt"; //Emplacement du fichier
 	    
 public String getHelloWorld() {
 	// TODO Auto-generated method stub
